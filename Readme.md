@@ -8,3 +8,6 @@ https://nbviewer.jupyter.org/github/rlaxogud0909/test/blob/master/2%E1%84%8C%E1%
 
 ## 3주차 과제 (2020.06.04)
 https://github.com/rlaxogud0909/test/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb
+
+## 4 주차 과제 (2002.06.11)
+https://github.com/rlaxogud0909/test/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
